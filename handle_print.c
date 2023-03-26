@@ -1,6 +1,7 @@
 #include "main.h"
 /**
  * handle_print - Prints an argument based on its type
+ * Handle the precision for non-custom conversion specifiers.
  * @fmt: Formatted string in which to print the arguments.
  * @list: List of arguments to be printed.
  * @ind: ind.
