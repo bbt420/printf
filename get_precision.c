@@ -2,6 +2,7 @@
 
 /**
  * get_precision - Calculates the precision for printing
+ * Handle the following flag characters for non-custom conversion specifiers:
  * @format: Formatted string in which to print the arguments
  * @i: List of arguments to be printed.
  * @list: list of arguments.
