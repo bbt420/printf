@@ -1,7 +1,8 @@
 #include "main.h"
 
 /**
- * get_flags - Calculates active flags Handle the following conversion specifier: p.
+ * get_flags - Calculates active flags Handle the following
+ * conversion specifier: p.
  * @format: Formatted string in which to print the arguments
  * @i: take a parameter.
  * Return: Flags:
